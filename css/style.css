@@ -1,0 +1,15 @@
+/* check for default css for elements */
+body {
+	background-color: #f8ffdb;
+}
+hr {
+	border-color: #3E6D9C;
+	border-style: none;
+	border-top-style: dotted;
+	border-width: 10px;
+	width: 85%;
+}
+
+h3{ 
+	color: #001253;
+}
