@@ -1,7 +1,29 @@
-
-h1{
-    margin-block: 0px;
+h1 {
+	margin-block: 0px;
 }
-body{
-    margin: 0px;
+body {
+	margin: 0px;
+}
+.topcontainer {
+	background-color: #def5e5;
+    width: 200px;
+    height: 200px;
+    border: solid 10px;
+    padding: 20px;
+}
+
+.middlecontainer{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    border: solid 20px;
+    margin-left: 260px;
+}
+
+.bottomcontainer{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    border: solid 10px;
+    margin-left: 500px;
 }
