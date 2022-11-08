@@ -13,3 +13,19 @@ hr {
 h3{ 
 	color: #001253;
 }
+
+/* ~~~~~~~~~~~~~~~~~~ CLASS Selector ~~~~~~~~~~~~~~ */
+.veg{
+	border: solid;
+	border-color: green;
+}
+
+.nonveg{
+	border: solid;
+	border-color: red;
+}
+
+/* ~~~~~~~~~~~~~~~~~~ ID Selector ~~~~~~~~~~~~~~~~~ */
+#food {
+	font-style: italic;
+}
