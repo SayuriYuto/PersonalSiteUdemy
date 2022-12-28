@@ -1,0 +1,34 @@
+body {
+	margin: 0px;
+	text-align: center;
+	font-family: "Merriweather", serif;
+}
+h1 {
+	margin-block: 0px;
+	font-family: "Sacramento", cursive;
+}
+h2 {
+	font-family: "Montserrat", sans-serif;
+}
+.pro {
+	text-decoration: underline;
+}
+.topcontainer {
+	background-color: #def5e5;
+	padding-top: 100px;
+	position: relative; /*parent container need to be relative so that child containers can be set accordingly*/
+}
+.middlecontainer {
+}
+.bottomcontainer {
+}
+.cloud-top {
+	position: absolute;
+	right: 300px;
+	top: 50px;
+}
+.cloud-bottom {
+	position: absolute;
+	left: 300px;
+	bottom: 300px;
+}
